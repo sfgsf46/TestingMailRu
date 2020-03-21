@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <Info id="1">
+        <site>yandex.com</site>
+        <link>http://yandex.com</link>
+        <description>search system</description>
+    </Info>
+    <Info id="2">
+        <site>vk.com</site>
+        <link>http://vk.com</link>
+        <description>social network</description>
+    </Info>
+</Data>
