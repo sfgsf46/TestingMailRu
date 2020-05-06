@@ -9,6 +9,6 @@ import org.junit.runner.RunWith;
         features = "features/buttonTest.feature"
         ,tags = {"@Aries"}
 )
-public class AriesPageTest {
+public class ZodiacPageTest {
 
 }

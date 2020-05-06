@@ -1,29 +1,21 @@
 package steps;
 
-import applitools.Screenshots;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import methods.CheckOutFlag;
-import mySQL.MySQL;
-import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import patterns.SingletonWebDriver;
 
 public class CheckOutFlagSteps {
     private CheckOutFlag checkOutFlag;
     private WebDriver webDriver;
-    private Screenshots screenshots;
-    private static final Logger logger = Logger.getLogger(CheckOutFlagSteps.class);
 
-    public CheckOutFlagSteps()
-    {
-        logger.info("tests are starting.....");
+    public CheckOutFlagSteps() {
         SingletonWebDriver singletonWebDriver = new SingletonWebDriver(webDriver);
         webDriver = singletonWebDriver.getInstance();
         webDriver.manage().window().maximize();
-        logger.info("page initialization finished");
     }
 
     @Given("^enter site -checkOutFlag$")
@@ -38,20 +30,17 @@ public class CheckOutFlagSteps {
 
     @When("^messages panel -checkOutFlag$")
     public void registration() {
-        checkOutFlag.enterLogin(MySQL.getLoginAndPasswordOfMySQL(2));
-        checkOutFlag.enterPassword(MySQL.getLoginAndPasswordOfMySQL(3));
+        checkOutFlag.enterLogin("sfgsf464646");
+        checkOutFlag.enterPassword("464646vk");
     }
 
     @And("^check out flag$")
     public void operationsClickFlag() {
         checkOutFlag.clickOutFlag();
-        logger.info("check out flag");
     }
 
     @Then("^exit program -checkOutFlag$")
     public void exitDriver() {
-        screenshots = new Screenshots(webDriver);
-        screenshots.screenSite("screen out flag page");
         checkOutFlag.exitProgram();
     }
 }

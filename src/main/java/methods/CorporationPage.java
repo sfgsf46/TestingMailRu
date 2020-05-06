@@ -11,7 +11,7 @@ public class CorporationPage {
     private static final int TIMEOUT = 15;
     private WebDriver webDriver;
 
-    @FindBy(xpath = "(//a[@class=\"footer__item i-color-warm-grey\"])[1]")
+    @FindBy(xpath = "(//a[@class=\"footer__item i-color-warm-grey svelte-lh29he\"])[1]")
     private WebElement corporationButton;
 
     public CorporationPage(WebDriver driver) {

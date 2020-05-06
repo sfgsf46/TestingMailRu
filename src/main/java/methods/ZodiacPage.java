@@ -7,17 +7,17 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class AriesPage {
+public class ZodiacPage {
     private static final int TIMEOUT = 15;
     private WebDriver webDriver;
 
-    @FindBy(xpath = "(//h3[@class=\"projects-item__title i-link-deco\"])[5]")
+    @FindBy(xpath = "//div[@class=\"informers__item svelte-1dye7ra\"]")
     private WebElement ariesButton;
 
     @FindBy(xpath = "//a[@class=\"x-ph__link x-ph__link_first\"]")
     private WebElement buttonReturn;
 
-    public AriesPage(WebDriver driver) {
+    public ZodiacPage(WebDriver driver) {
         this.webDriver = driver;
         PageFactory.initElements(driver, this);
     }

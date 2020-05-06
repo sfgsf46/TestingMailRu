@@ -12,7 +12,7 @@ public class SingletonWebDriver {
 
     public WebDriver getInstance (){
         System.setProperty("webdriver.chrome.driver",
-                "D:\\Java\\Automation course\\driver\\chromedriver.exe");
+                "D:\\Study\\Projects\\driver\\chromedriver.exe");
         if(webDriver == null) {
             webDriver = new ChromeDriver();
         }

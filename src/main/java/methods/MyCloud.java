@@ -11,10 +11,10 @@ public class MyCloud {
     private static final int TIMEOUT = 15;
     private WebDriver webDriver;
 
-    @FindBy(xpath = "(//h3[@class=\"projects-item__title i-link-deco\"])[1]")
+    @FindBy(xpath = "(//div[@class=\"projects-item__body svelte-qyhth7\"])[1]")
     private WebElement cloudButton;
 
-    @FindBy(xpath = "//a[@class=\"footer__links-item\"]")
+    @FindBy(xpath = "(//a[@class=\"footer__links-item\"])[3]")
     private WebElement buttonReturn;
 
     public MyCloud(WebDriver driver) {

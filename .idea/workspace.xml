@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb512cd6-0ed0-4509-9258-f3219d3ae684" name="Default Changelist" comment="" />
+    <list default="true" id="eb512cd6-0ed0-4509-9258-f3219d3ae684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TestingMailRu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/apiTest/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/apiTest/Vk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/applitools/Screenshots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/methods/AriesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/ZodiacPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/methods/CheckFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/CheckFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/methods/CheckOutFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/CheckOutFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/methods/CorporationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/CorporationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/methods/MyCloud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/MyCloud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/methods/WeatherForecastPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/WeatherForecastPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mySQL/MySQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mySQL/dataMySQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parsers/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parsers/Run.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parsers/SaxParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/SingletonWebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/SingletonWebDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/AriesPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/ZodiacPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/CheckFlagSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CheckFlagSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/CheckOutFlagSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CheckOutFlagSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/CorporationPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CorporationPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/LetterOfSpamSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/LetterOfSpamSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/LetterToSpamSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/LetterToSpamSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/MyCloudSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/MyCloudSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/SearchImagesSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/SearchImagesSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/SendMessageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/SendMessageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/WeatherForecastPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/WeatherForecastPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/VkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/AllTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/AllTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/AriesPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/ZodiacPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/apiTest/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/apiTest/Vk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applitools/Screenshots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/methods/AriesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/methods/CheckFlag.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/CheckFlag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/methods/CorporationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/CorporationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/methods/MyCloud.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/MyCloud.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/methods/WeatherForecastPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/WeatherForecastPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mySQL/MySQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mySQL/dataMySQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/parsers/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/parsers/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/parsers/SaxParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/patterns/SingletonWebDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/SingletonWebDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/AriesPageSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/CheckFlagSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/CheckFlagSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/CheckOutFlagSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/CheckOutFlagSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/CorporationPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/CorporationPageSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/LetterOfSpamSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/LetterOfSpamSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/LetterToSpamSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/LetterToSpamSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/MyCloudSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/MyCloudSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/SearchImagesSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/SearchImagesSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/SendMessageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/SendMessageSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/WeatherForecastPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/WeatherForecastPageSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/apiTest/VkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/AllTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/AllTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/AriesPageTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +78,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,7 +97,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestingTutBy/pom.xml" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -51,22 +119,9 @@
       <recent name="D:\Java\Automation course\Занятие 22 - Проект\Project\features" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AllTest">
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parsers.Run" />
-      <module name="Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parsers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
+  <component name="RunManager" selected="JUnit.SentMessageTest">
+    <configuration name="CheckFlagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingMailRu" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="steps.*" />
@@ -74,14 +129,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="steps.AllTest" />
+      <option name="MAIN_CLASS_NAME" value="steps.CheckFlagTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AriesPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
+    <configuration name="CheckOutFlagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingMailRu" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="steps.*" />
@@ -89,14 +144,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="steps.AriesPageTest" />
+      <option name="MAIN_CLASS_NAME" value="steps.CheckOutFlagTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CorporationPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
+    <configuration name="LetterOfSpamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingMailRu" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="steps.*" />
@@ -104,14 +159,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="steps.CorporationPageTest" />
+      <option name="MAIN_CLASS_NAME" value="steps.LetterOfSpamTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchImagesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
+    <configuration name="LetterToSpamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingMailRu" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="steps.*" />
@@ -119,19 +174,41 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="steps.SearchImagesTest" />
+      <option name="MAIN_CLASS_NAME" value="steps.LetterToSpamTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SentMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingMailRu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.SentMessageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CheckFlagTest" />
+      <item itemvalue="JUnit.CheckOutFlagTest" />
+      <item itemvalue="JUnit.LetterToSpamTest" />
+      <item itemvalue="JUnit.LetterOfSpamTest" />
+      <item itemvalue="JUnit.SentMessageTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AllTest" />
-        <item itemvalue="JUnit.CorporationPageTest" />
-        <item itemvalue="JUnit.AriesPageTest" />
-        <item itemvalue="Application.Run" />
-        <item itemvalue="JUnit.SearchImagesTest" />
+        <item itemvalue="JUnit.SentMessageTest" />
+        <item itemvalue="JUnit.LetterOfSpamTest" />
+        <item itemvalue="JUnit.LetterToSpamTest" />
+        <item itemvalue="JUnit.CheckFlagTest" />
+        <item itemvalue="JUnit.CheckOutFlagTest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +230,10 @@
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state x="439" y="138" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1418.759@0.0.1418.759" timestamp="1584736937192" />
+    <state x="205" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588706784788">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="205" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1418.759@0.0.1418.759" timestamp="1588706784788" />
     <state x="445" y="190" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584700787957">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
@@ -165,33 +246,41 @@
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state x="496" y="240" width="386" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1418.759@0.0.1418.759" timestamp="1584621253334" />
-    <state x="463" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584705795531">
+    <state x="463" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588763458513">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state x="463" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1418.759@0.0.1418.759" timestamp="1584705795531" />
-    <state x="470" y="130" key="FileChooserDialogImpl" timestamp="1584770888567">
+    <state x="463" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1418.759@0.0.1418.759" timestamp="1588763458513" />
+    <state x="470" y="130" key="FileChooserDialogImpl" timestamp="1588257257639">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state x="470" y="130" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1584770888567" />
-    <state width="1189" height="197" key="GridCell.Tab.0.bottom" timestamp="1584776467858">
+    <state x="470" y="130" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1588257257639" />
+    <state width="1374" height="171" key="GridCell.Tab.0.bottom" timestamp="1588771769497">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1189" height="197" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1584776467858" />
-    <state width="1189" height="197" key="GridCell.Tab.0.center" timestamp="1584776467857">
+    <state width="1374" height="171" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1588771769497" />
+    <state width="1374" height="171" key="GridCell.Tab.0.center" timestamp="1588771769497">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1189" height="197" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1584776467857" />
-    <state width="1189" height="197" key="GridCell.Tab.0.left" timestamp="1584776467857">
+    <state width="1374" height="171" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1588771769497" />
+    <state width="1374" height="171" key="GridCell.Tab.0.left" timestamp="1588771769497">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1189" height="197" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1584776467857" />
-    <state width="1189" height="197" key="GridCell.Tab.0.right" timestamp="1584776467857">
+    <state width="1374" height="171" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1588771769497" />
+    <state width="1374" height="171" key="GridCell.Tab.0.right" timestamp="1588771769497">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1189" height="197" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1584776467857" />
+    <state width="1374" height="171" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1588771769497" />
     <state x="219" y="29" key="Maven.ArtifactSearchDialog" timestamp="1584743732827">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state x="219" y="29" key="Maven.ArtifactSearchDialog/0.0.1418.759@0.0.1418.759" timestamp="1584743732827" />
+    <state x="568" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588707247766">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="568" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1418.759@0.0.1418.759" timestamp="1588707247766" />
+    <state x="254" y="171" key="new project wizard" timestamp="1588256170125">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="254" y="171" key="new project wizard/0.0.1418.759@0.0.1418.759" timestamp="1588256170125" />
   </component>
 </project>

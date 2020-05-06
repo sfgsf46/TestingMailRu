@@ -11,7 +11,7 @@ public class WeatherForecastPage {
     private static final int TIMEOUT = 15;
     private WebDriver webDriver;
 
-    @FindBy(xpath = "//div[@class=\"weather__body i-pull-left svelte-1osa4qt\"]")
+    @FindBy(xpath = "//p[@class=\"weather__desc i-font-md i-link-deco svelte-15u5l1c\"]")
     private WebElement forecastButton;
 
     @FindBy(xpath = "//a[@class=\"x-ph__link x-ph__link_first\"]")
