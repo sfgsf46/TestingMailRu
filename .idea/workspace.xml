@@ -2,69 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb512cd6-0ed0-4509-9258-f3219d3ae684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TestingMailRu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/apiTest/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/apiTest/Vk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/applitools/Screenshots.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/AriesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/ZodiacPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/CheckFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/CheckFlag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/CheckOutFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/CheckOutFlag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/CorporationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/CorporationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/MyCloud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/MyCloud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/WeatherForecastPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/WeatherForecastPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mySQL/MySQL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mySQL/dataMySQL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parsers/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parsers/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parsers/SaxParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/SingletonWebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/SingletonWebDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/AriesPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/ZodiacPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/CheckFlagSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CheckFlagSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/CheckOutFlagSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CheckOutFlagSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/CorporationPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CorporationPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/LetterOfSpamSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/LetterOfSpamSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/LetterToSpamSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/LetterToSpamSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/MyCloudSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/MyCloudSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/SearchImagesSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/SearchImagesSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/SendMessageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/SendMessageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/WeatherForecastPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/WeatherForecastPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/VkTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/AllTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/AllTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/AriesPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/ZodiacPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Project.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/apiTest/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/apiTest/Vk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applitools/Screenshots.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/methods/AriesPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/methods/CheckFlag.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/CheckFlag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/methods/CorporationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/CorporationPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/methods/MyCloud.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/MyCloud.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/methods/WeatherForecastPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/WeatherForecastPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mySQL/MySQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mySQL/dataMySQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/parsers/Model.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/parsers/Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/parsers/SaxParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/SingletonWebDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/SingletonWebDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/AriesPageSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/CheckFlagSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/CheckFlagSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/CheckOutFlagSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/CheckOutFlagSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/CorporationPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/CorporationPageSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/LetterOfSpamSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/LetterOfSpamSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/LetterToSpamSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/LetterToSpamSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/MyCloudSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/MyCloudSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/SearchImagesSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/SearchImagesSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/SendMessageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/SendMessageSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/steps/WeatherForecastPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/WeatherForecastPageSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Project.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/apiTest/VkTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/AllTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/AllTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/AriesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,22 +193,22 @@
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state x="470" y="130" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1588257257639" />
-    <state width="1374" height="171" key="GridCell.Tab.0.bottom" timestamp="1588771769497">
+    <state width="1374" height="171" key="GridCell.Tab.0.bottom" timestamp="1588772150473">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="171" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1588771769497" />
-    <state width="1374" height="171" key="GridCell.Tab.0.center" timestamp="1588771769497">
+    <state width="1374" height="171" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1588772150473" />
+    <state width="1374" height="171" key="GridCell.Tab.0.center" timestamp="1588772150472">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="171" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1588771769497" />
-    <state width="1374" height="171" key="GridCell.Tab.0.left" timestamp="1588771769497">
+    <state width="1374" height="171" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1588772150472" />
+    <state width="1374" height="171" key="GridCell.Tab.0.left" timestamp="1588772150471">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="171" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1588771769497" />
-    <state width="1374" height="171" key="GridCell.Tab.0.right" timestamp="1588771769497">
+    <state width="1374" height="171" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1588772150471" />
+    <state width="1374" height="171" key="GridCell.Tab.0.right" timestamp="1588772150473">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="171" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1588771769497" />
+    <state width="1374" height="171" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1588772150473" />
     <state x="219" y="29" key="Maven.ArtifactSearchDialog" timestamp="1584743732827">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
